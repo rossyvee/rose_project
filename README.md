@@ -1,7 +1,7 @@
 ReadMe.md
 Portfolio
 ##### ROSELINE AKINYI
-### A Description of a Landing Page of an Insurance Company.
+### A Description of a Landing Page of a Bulk SMS services.
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement]( Requisites)
@@ -11,9 +11,8 @@ Portfolio
 + [Licence](#licence)
 + [Authors Info](#aut)
 ##Description
-The aim of this project is to create a landing page for an insurance company using HTML and CSS concepts. The project ensures best user experience by ensuring that
-it displays its contents on various devices with different screen sizes. The project is primarly designed for desktops but incorporates media queries concepts to accomodate
-other smaller devices.
+The aim of this project is to create a landing page of the BUlk SMS service using HTML and CSS concepts. The project ensures best user experience by ensuring that
+it displays its contents on various devices with different screen sizes. The project is primarly designed for desktops since its a web based service but it can be viewed on mobile phones.
 ![desktop](./images/Desktop.png) This is the desktop rendition.
 ![mobile](./images/Mobile.png)  This is the mobile rendition.
 ## Set-up
