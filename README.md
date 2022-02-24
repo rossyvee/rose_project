@@ -53,5 +53,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Authors Info
 Slack Profile - ROSELINE AKINYI.
-LinkedIn - (ROSELINE AKINYI: )
+LinkedIn - (ROSELINE AKINYI: https://www.linkedin.com/in/roseline-akinyi-a19210123/)
 Email - roseakinyi001@gmail.com
